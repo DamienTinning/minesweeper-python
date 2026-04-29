@@ -1,2 +1,3 @@
 # minesweeper-python
-Minesweeper attempt through python - testing
+Minesweeper attempt through python
+Full recreation of game "minesweeper" with python
